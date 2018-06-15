@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+elink.io	TRUE	/	FALSE	1999999999	ahoy_visitor	f34ea37a-e16c-4d1f-9f3d-74ae2a56b278
+elink.io	TRUE	/	FALSE	1999999999	ahoy_visit	dacd993f-cea4-4816-bcba-4c94bd51f1ed
+elink.io	TRUE	/	FALSE	1999999999	ahoy_track	true
+elink.io	TRUE	/	FALSE	1999999999	_elink_session	cnF5SGw0REhPQlM0TlpkeDRhczlabHFNSklPcWNyWUZYK2dNRDEvOWdId1ZVeTM0SGV3SHF2T3RyWWp4aEwzTFlpQnFoSER1b0VCazM4TTNEckpROE55NHM2UFhKQk50bXg1Nm9WSzFxM0ZPV1g2STZDeEQvaXp5VEVvT1RjUHRPamNNVzliMEZHU05qZ2dlTkxXd1F3PT0tLW1lV0p4NFdKZlFoOUdjMnBSb3V0QkE9PQ%3D%3D--7264a853e9ebbbec7701c0ceab81ebd68692a616
+
